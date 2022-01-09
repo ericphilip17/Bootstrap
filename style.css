@@ -1,0 +1,24 @@
+.content-1-left {
+    background-color: aliceblue;
+    height: 400px;
+
+}
+.content-1-center {
+    background-color: azure;
+    height: 400px;
+
+}
+.content-1-right {
+    background-color: bisque;
+    height: 400px;
+}
+.center-img {
+    background-color: white;
+    padding: 0px !important;
+    /* width: 30%; */
+
+}
+.cntr {
+    background-color:aqua;
+    padding: 0px !important
+}
